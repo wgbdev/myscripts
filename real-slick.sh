@@ -1,0 +1,14 @@
+./slick.sh /boot
+./slick.sh /etc
+./slick.sh /home
+./slick.sh /lib
+./slick.sh /lib64
+./slick.sh /media
+./slick.sh /mnt
+./slick.sh /opt
+./slick.sh /root
+./slick.sh /run
+./slick.sh /sbin
+./slick.sh /srv
+./slick.sh /usr
+./slick.sh /var
