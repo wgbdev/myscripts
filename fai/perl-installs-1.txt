@@ -1,0 +1,10 @@
+o conf init
+
+o conf prerequisites_policy ask
+o conf cpan_home wgb-perl-home
+o conf build_dir wgb-perl-home/build_dir
+o conf keep_source_where wgb-perl-home/source
+o conf commit
+
+q
+
