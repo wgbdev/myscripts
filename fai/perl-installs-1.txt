@@ -1,8 +1,0 @@
-
-o conf init
-
-o conf prerequisites_policy ask
-o conf commit
-
-q
-

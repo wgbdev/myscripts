@@ -1,5 +1,0 @@
-install Parse::RecDescent
-install Graph::Directed
-
-q
-
