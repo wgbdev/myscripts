@@ -1,5 +1,4 @@
-i Graph::Directed
-i Parse::RecDescent
+install Parse::RecDescent
 
 q
 
