@@ -10,6 +10,7 @@ apt-get install asciidoc -y
 apt-get install w3m -y
 # - Let`s hope we don`t need the following, it's really fucking big....
 #apt-get install dblatex -y
+apt-get install asciidoc-dblatex
 
 echo
 echo "-------------------------------------------------------"
