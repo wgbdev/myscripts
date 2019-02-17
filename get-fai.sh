@@ -1,1 +1,1 @@
-git clone --recursive https://github.com/faiproject/fai.git ${1}
+git clone --recursive https://github.com/wgbdev/fai.git ${1}
