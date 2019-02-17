@@ -2,8 +2,8 @@ echo
 
 apt-get update 
 apt-get upgrade -y
-apt-get install devscripts 
-apt-get install git-buildpackage
+apt-get install devscripts -y
+apt-get install git-buildpackage -y
 
 echo
 echo "-------------------------------------------------------"
