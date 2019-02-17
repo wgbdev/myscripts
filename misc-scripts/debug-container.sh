@@ -1,7 +1,7 @@
 
 if [ $# -gt 0 ]
 then
-	docker container run -it --name=debug --rm ${1} /bin/sh
+	docker container run -it --name=debug --rm ${1} /bin/bash -il
 else
 	echo
 	echo	"Missing Parameters:"
