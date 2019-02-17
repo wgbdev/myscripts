@@ -1,0 +1,6 @@
+o conf init
+
+install Graph::Directed
+install Parse::RecDescent
+quit
+
